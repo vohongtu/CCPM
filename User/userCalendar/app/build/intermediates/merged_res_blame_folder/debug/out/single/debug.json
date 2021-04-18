@@ -1,0 +1,158 @@
+[
+    {
+        "merged": "E:\\123\\userCalendar\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\123\\userCalendar\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\123\\userCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_khung3.xml.flat",
+        "source": "E:\\123\\userCalendar\\app\\src\\main\\res\\drawable-v24\\khung3.xml"
+    },
+    {
+        "merged": "E:\\123\\userCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "E:\\123\\userCalendar\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\123\\userCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_main.xml.flat",
+        "source": "E:\\123\\userCalendar\\app\\src\\main\\res\\layout\\content_main.xml"
+    },
+    {
+        "merged": "E:\\123\\userCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "E:\\123\\userCalendar\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "E:\\123\\userCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "E:\\123\\userCalendar\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "E:\\123\\userCalendar\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "E:\\123\\userCalendar\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\123\\userCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_datlich.xml.flat",
+        "source": "E:\\123\\userCalendar\\app\\src\\main\\res\\layout\\activity_datlich.xml"
+    },
+    {
+        "merged": "E:\\123\\userCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_up.png.flat",
+        "source": "E:\\123\\userCalendar\\app\\src\\main\\res\\drawable-v24\\up.png"
+    },
+    {
+        "merged": "E:\\123\\userCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_test.xml.flat",
+        "source": "E:\\123\\userCalendar\\app\\src\\main\\res\\layout\\activity_test.xml"
+    },
+    {
+        "merged": "E:\\123\\userCalendar\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "E:\\123\\userCalendar\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\123\\userCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_second.xml.flat",
+        "source": "E:\\123\\userCalendar\\app\\src\\main\\res\\layout\\fragment_second.xml"
+    },
+    {
+        "merged": "E:\\123\\userCalendar\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\123\\userCalendar\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\123\\userCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "E:\\123\\userCalendar\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "E:\\123\\userCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "E:\\123\\userCalendar\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "E:\\123\\userCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "E:\\123\\userCalendar\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "E:\\123\\userCalendar\\app\\build\\intermediates\\res\\merged\\debug\\navigation_nav_graph.xml.flat",
+        "source": "E:\\123\\userCalendar\\app\\src\\main\\res\\navigation\\nav_graph.xml"
+    },
+    {
+        "merged": "E:\\123\\userCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pass.png.flat",
+        "source": "E:\\123\\userCalendar\\app\\src\\main\\res\\drawable\\pass.png"
+    },
+    {
+        "merged": "E:\\123\\userCalendar\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "E:\\123\\userCalendar\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\123\\userCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_bg_btn.xml.flat",
+        "source": "E:\\123\\userCalendar\\app\\src\\main\\res\\drawable-v24\\bg_btn.xml"
+    },
+    {
+        "merged": "E:\\123\\userCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_register.xml.flat",
+        "source": "E:\\123\\userCalendar\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "E:\\123\\userCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "E:\\123\\userCalendar\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "E:\\123\\userCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_first.xml.flat",
+        "source": "E:\\123\\userCalendar\\app\\src\\main\\res\\layout\\fragment_first.xml"
+    },
+    {
+        "merged": "E:\\123\\userCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout_a_spinner_item_layout_resource.xml.flat",
+        "source": "E:\\123\\userCalendar\\app\\src\\main\\res\\layout\\a_spinner_item_layout_resource.xml"
+    },
+    {
+        "merged": "E:\\123\\userCalendar\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "E:\\123\\userCalendar\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "E:\\123\\userCalendar\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\123\\userCalendar\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\123\\userCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_phone.png.flat",
+        "source": "E:\\123\\userCalendar\\app\\src\\main\\res\\drawable-v24\\ic_phone.png"
+    },
+    {
+        "merged": "E:\\123\\userCalendar\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "E:\\123\\userCalendar\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\123\\userCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "E:\\123\\userCalendar\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "E:\\123\\userCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable_user.png.flat",
+        "source": "E:\\123\\userCalendar\\app\\src\\main\\res\\drawable\\user.png"
+    },
+    {
+        "merged": "E:\\123\\userCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_khung2.xml.flat",
+        "source": "E:\\123\\userCalendar\\app\\src\\main\\res\\drawable-v24\\khung2.xml"
+    },
+    {
+        "merged": "E:\\123\\userCalendar\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "E:\\123\\userCalendar\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\123\\userCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "E:\\123\\userCalendar\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "E:\\123\\userCalendar\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "E:\\123\\userCalendar\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\123\\userCalendar\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "E:\\123\\userCalendar\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "E:\\123\\userCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "E:\\123\\userCalendar\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "E:\\123\\userCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_khung.xml.flat",
+        "source": "E:\\123\\userCalendar\\app\\src\\main\\res\\drawable-v24\\khung.xml"
+    },
+    {
+        "merged": "E:\\123\\userCalendar\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_main.xml.flat",
+        "source": "E:\\123\\userCalendar\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "E:\\123\\userCalendar\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "E:\\123\\userCalendar\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    }
+]

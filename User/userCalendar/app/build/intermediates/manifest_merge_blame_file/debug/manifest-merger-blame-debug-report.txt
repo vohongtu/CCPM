@@ -1,0 +1,80 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.usercalendar"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="19"
+8-->E:\123\userCalendar\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->E:\123\userCalendar\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->E:\123\userCalendar\app\src\main\AndroidManifest.xml:5:5-67
+11-->E:\123\userCalendar\app\src\main\AndroidManifest.xml:5:22-64
+12
+13    <application
+13-->E:\123\userCalendar\app\src\main\AndroidManifest.xml:7:5-36:19
+14        android:allowBackup="true"
+14-->E:\123\userCalendar\app\src\main\AndroidManifest.xml:8:9-35
+15        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+15-->[androidx.core:core:1.3.1] C:\Users\bobop\.gradle\caches\transforms-2\files-2.1\b234a824af7fd98a5c54fc0522824a91\core-1.3.1\AndroidManifest.xml:24:18-86
+16        android:debuggable="true"
+17        android:icon="@mipmap/ic_launcher"
+17-->E:\123\userCalendar\app\src\main\AndroidManifest.xml:9:9-43
+18        android:label="@string/app_name"
+18-->E:\123\userCalendar\app\src\main\AndroidManifest.xml:10:9-41
+19        android:roundIcon="@mipmap/ic_launcher_round"
+19-->E:\123\userCalendar\app\src\main\AndroidManifest.xml:11:9-54
+20        android:supportsRtl="true"
+20-->E:\123\userCalendar\app\src\main\AndroidManifest.xml:12:9-35
+21        android:testOnly="true"
+22        android:theme="@style/Theme.UserCalendar" >
+22-->E:\123\userCalendar\app\src\main\AndroidManifest.xml:13:9-50
+23        <activity android:name="com.example.usercalendar.TestActivity" >
+23-->E:\123\userCalendar\app\src\main\AndroidManifest.xml:14:9-20:20
+23-->E:\123\userCalendar\app\src\main\AndroidManifest.xml:14:19-47
+24            <intent-filter>
+24-->E:\123\userCalendar\app\src\main\AndroidManifest.xml:15:13-19:29
+25                <action android:name="android.intent.action.MAIN" />
+25-->E:\123\userCalendar\app\src\main\AndroidManifest.xml:16:17-69
+25-->E:\123\userCalendar\app\src\main\AndroidManifest.xml:16:25-66
+26
+27                <category android:name="android.intent.category.LAUNCHER" />
+27-->E:\123\userCalendar\app\src\main\AndroidManifest.xml:18:17-77
+27-->E:\123\userCalendar\app\src\main\AndroidManifest.xml:18:27-74
+28            </intent-filter>
+29        </activity>
+30        <activity android:name="com.example.usercalendar.views.DatlichActivity" >
+30-->E:\123\userCalendar\app\src\main\AndroidManifest.xml:21:9-23:20
+30-->E:\123\userCalendar\app\src\main\AndroidManifest.xml:21:19-56
+31        </activity>
+32        <activity android:name="com.example.usercalendar.views.RegisterActivity" />
+32-->E:\123\userCalendar\app\src\main\AndroidManifest.xml:24:9-69
+32-->E:\123\userCalendar\app\src\main\AndroidManifest.xml:24:19-57
+33        <activity android:name="com.example.usercalendar.views.LoginActivity" >
+33-->E:\123\userCalendar\app\src\main\AndroidManifest.xml:25:9-31:20
+33-->E:\123\userCalendar\app\src\main\AndroidManifest.xml:25:19-54
+34            <intent-filter>
+34-->E:\123\userCalendar\app\src\main\AndroidManifest.xml:15:13-19:29
+35                <action android:name="android.intent.action.MAIN" />
+35-->E:\123\userCalendar\app\src\main\AndroidManifest.xml:16:17-69
+35-->E:\123\userCalendar\app\src\main\AndroidManifest.xml:16:25-66
+36
+37                <category android:name="android.intent.category.LAUNCHER" />
+37-->E:\123\userCalendar\app\src\main\AndroidManifest.xml:18:17-77
+37-->E:\123\userCalendar\app\src\main\AndroidManifest.xml:18:27-74
+38            </intent-filter>
+39        </activity>
+40        <activity
+40-->E:\123\userCalendar\app\src\main\AndroidManifest.xml:32:9-35:69
+41            android:name="com.example.usercalendar.views.MainActivity"
+41-->E:\123\userCalendar\app\src\main\AndroidManifest.xml:33:13-47
+42            android:label="@string/app_name"
+42-->E:\123\userCalendar\app\src\main\AndroidManifest.xml:34:13-45
+43            android:theme="@style/Theme.UserCalendar.NoActionBar" />
+43-->E:\123\userCalendar\app\src\main\AndroidManifest.xml:35:13-66
+44    </application>
+45
+46</manifest>
